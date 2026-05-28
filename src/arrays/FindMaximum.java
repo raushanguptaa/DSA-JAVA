@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 public class FindMaximum {
     public static void main(String[] args) {

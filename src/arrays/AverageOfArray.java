@@ -1,4 +1,4 @@
-package array;
+package arrays;
 
 public class AverageOfArray {
     public static void main(String[] args) {
