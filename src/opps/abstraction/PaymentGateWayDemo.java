@@ -1,6 +1,6 @@
 package opps.abstraction;
 
-public class PaymentGateWayDemo {
+ public class PaymentGateWayDemo {
     /*
     Question:
     Create interface:
