@@ -1,4 +1,4 @@
-package arrays;
+package arrays.basics;
 
 public class CopyArray {
     public static void main(String[] args) {
